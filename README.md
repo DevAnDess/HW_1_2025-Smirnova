@@ -22,7 +22,7 @@ All analysis, code, comments, and visualizations are included directly in the Ju
 ---
 ## How to Run the Project
 
-### Option 1 — Google Colab (recommended)
+### Option 1 — Google Colab
 1. Open [Google Colab](https://colab.research.google.com/).  
 2. Upload `HW1_Var14_Analytics.ipynb`.  
 3. Run all cells (`Runtime → Run all`).  
